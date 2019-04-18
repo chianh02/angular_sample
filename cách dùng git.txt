@@ -2,5 +2,12 @@ git
 có cài đặt gi base here
 
 1. tạo một project trên github
-2. dùng lệnh remote để tại dự án về local
+2. chọn một thư mục là nơi chứa source git  => mở git base here tại thư mục này
+3. chạy lệnh git init => cho biết thư mục này se là repository
+4. chạy lệnh add tại liêu
+5. chạy lệnh git commit -m "chú thích"
+6. git remote add origin https://github.com/chianh02/angular_sample.git
+   => kết nối với server git hub
+7. git push -u origin master
+ => đẩy thông tin lên cái server git hub mới kết nối đó
 
