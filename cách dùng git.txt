@@ -1,0 +1,6 @@
+git
+có cài đặt gi base here
+
+1. tạo một project trên github
+2. dùng lệnh remote để tại dự án về local
+

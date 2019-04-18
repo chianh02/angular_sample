@@ -1,0 +1,87 @@
+運航ダイヤ
+◆ Bảng ghi giờ van hafnh
+インフラ
+◆ Cơ sở hạ tầng
+考慮
+こうりょ
+◆ Sự xem xét; sự suy tính; sự quan tâm
+がいはん
+◆ Những hàng bán trực tiếp
+耐久
+Độ bền
+
+果たす	はたす	to accomplish; hoan thanh
+
+スケールイン 「スケールイン」とは、システムを構成する仮想マシン（サーバー）の台数を減らすことをいいます。 ... 
+そのようなとき「スケールアウト」を行い、サーバーの台数を増やせば、サーバーの処理能力を高めることができます。
+
+耐障害性
+「NẠI CHƯỚNG HẠI TÍNH」
+◆ Sự dung sai lỗi
+
+
+ふくせい
+「PHỨC CHẾ」
+◆ Sự phục chế
+
+操縦士
+そうじゅうし「THAO TÚNG SĨ」Hoa tiêu, phi côngcomit
+
+交付
+こうふ  「GIAO PHÓ」◆ Sự cấp cho (giấy tờ); sự phát hành (giấy tờ); cấp; phát
+
+インキャパ =>  インキャパシテーション => Không có khả năng
+
+耐久
+交付
+操縦士
+耐障害性
+
+luong khi commit (bat buoc phai pull truoc khi add, vi kho pull ma add thi van commit duoc)
+pull => add => commit => push
+neu bi config thi pull lay lai data da bi confilic(da commit) => fix lai => add roi commit nhu thương 
+
+$ git add .(thêm file hoặc update file , truong hop moi merger xong(lay thay doi tu server roi add update cuar minh vao) thi phai chay
+ add truoc roi moi commit duoc)
+Sau lệnh add, bạn cần sử dụng câu lệnh Commit để đây thông tin thay đổi lên Local Respository:
+
+$ git commit -m "Message"
+
+$ git push origin <name_branch>
+Ngoài ra, nếu chưa tồn tại remote trên server thì bạn cần phải add mới một remote trước rồi mới push:
+
+$ git remote add origin <remote_url>
+$ git push origin <name_branch>
+
+======================================
+angular
+cach chay cac demoproject tu git
+https://techmaster.vn/posts/34234/bat-dau-voi-angular-2-tung-buoc-mot-1-component-dau-tien-cua-ban
+
+giai thich chuc nang cac file trong project
+https://freetuts.net/tao-project-angular-4-dau-tien-1296.html
+
+https://freetuts.net/http-service-trong-angular-4-1352.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

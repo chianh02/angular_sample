@@ -1,0 +1,75 @@
+==============================
+suliment
+Chinh: front
+Ly: tester
+=========================
+dujw dinh laf thuyet minh file tieng anh truoc
+1. gioi thieu ve viec phat trien cuar wweb 
+  1.1 nhan manh do tuong tac la application
+  2.1 UI interface dep 
+  UX trai nghiem nguoi dumg
+  1.3 ung dung vao web 
+react js dap ung duoc 4 yeu cau tren
+
+page 2. phan hoi phan ung => de lam thu vien nguoi dung
+ nhieu cty su dung.
+=> hoi xua render ca mot trang html lon
+ => lan nay tach ra nhieu component
+ 
+3. dua tren javascript nen de su dung, ai cung biet
+ de ket hop vi la thu vien ben UI => 
+ lego pieces => chia ra de =. giong tro lego de rap lai
+ 
+ explicit data flow => kieu data cua javascript, 2 loai tham chieu, nguyen thuy
+    data cua mot bo ledo la dong nhat , snap spt cua cha
+	de quan lay kieu
+
+seo friendly => code theo kieu js roi bulid ra javascript => google danh gia index cao
+
+performance : virtual DOm => xu lys tren ram ,momery , la tinh tren ram sau do moi ket noi toi browser
+         => nhanh hon khi nao cung lam tren browser	 
+ => tu tao ra framwork rieng
+ 
+ 
+React js
+virtual DOm
+
+APp xu lys cuar web 
+
+Enzyme: dung de test tu dong
+du dinh dung het , ember ...
+
+backend: co test api => Jmeter (performance test)
+                     test function, loadteset, stress test
+Front end: selenium (webdriver) 
+                => dung cho function test
+         viet test srcipt dung java, javascript, python 
+		=> vi chon react => nen chon la javascript => dap ung duoc performance
+		structure =>  object base mode 
+		     => define ra element , repo, action 
+			 
+			 test suite gom nhieu test case
+			 Xpath => duyet theo DOM de tu dong test
+			 
+			 khoang 40% cong so code
+
+   CI/CD => intergare, deliverate => dung jenkins
+
+micro service cuar java
+=========================================================
+gui mail hoi takada chinh xac ngay gio mendan voi khach hang
+
+chot voi innotec la ngay vao laf 22/4, gui kem org char cho takada luon
+
+
+noi som mot tuan lai dinh, mot tuan
+nhung mot tuan sau la nghi le nen qua dau thang 5 co duoc ko.
+ 
+ 
+ org chart
+  basse note : 
+      1. neu quy mo them nguoi thi se them PL , leader
+	  2. them comotor,  
+	  fix gui cho takeda
+ 
+西村さん、#11295について、添付しているコメント 2019-03-26 164820.jpg画像に(1)2019/03/26test_optional_data.csvファイルがありますが、このファイルと3月
